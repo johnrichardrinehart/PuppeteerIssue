@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer_problem",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "yarn node index.js"
+  },
+  "dependencies": {
+    "got": "^11.8.1",
+    "puppeteer": "^7.1.0"
+  }
+}
